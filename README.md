@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ethbulgarski
+- 👋 Hi, I’m @ethbulgarski and I professionally torture myself debugging
 
 Interests:
  - Gaming:
