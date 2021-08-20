@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ethbulgarski
 
-Linkedin: <https://youtu.be/AZC-6T35Oao>
+Linkedin: <https://www.linkedin.com/in/ethan-stoyanov-3217211ba>
