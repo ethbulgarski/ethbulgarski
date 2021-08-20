@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ethbulgarski and I professionally torture myself debugging
+- 👋 Hi, I’m @ethbulgarski
 
 Interests:
  - Gaming:
@@ -13,8 +13,6 @@ Interests:
 ⠀      ⠀-       └📁common
 
          -   └📁Funny Memes
- 
- - └ yo mama haaaaaaaaaaaa
   
    ⠀-  └📁Counter-Strike
   
